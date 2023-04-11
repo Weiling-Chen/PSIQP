@@ -1,0 +1,2 @@
+Please cite the paper
+ Chen, W., Gu, K., Min, X., Yuan, F., Cheng, E., & Zhang, W., ¡°Partial-reference sonar image quality assessment for underwater transmission,¡±IEEE transactions on aerospace and electronic systems (T-AES), 2018.
